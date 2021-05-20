@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 469b6f97a7ef8bb45a7ecff9fe56dbad
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Layiji MaHaNiYom BAO 1.2
+  fontNames:
+  - Layiji MaHaNiYom BAO 1.2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3850145390901566586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6577599525317628541}
+  - component: {fileID: 7767532728135268499}
+  m_Layer: 0
+  m_Name: NaKom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6577599525317628541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3850145390901566586}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7767532728135268499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3850145390901566586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 873952846d1a0054494f6b3e3ac33cd3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NpcPrefab: {fileID: 5809622430474153172, guid: ed77a2e1de4e1694093bfce94284dbd8,
+    type: 3}
+  ShirtMaterial: {fileID: 2100000, guid: fa910f691f7dc204abf29353104b28c6, type: 2}
+  waitingSound: {fileID: 8300000, guid: 6fb43194d875b1e4f96ac22bee06553d, type: 3}
+  wavingSound: {fileID: 8300000, guid: c546e200e74e99f499f00c5bf5f40bec, type: 3}
+  hitSound: {fileID: 8300000, guid: a3c66efb740665d47b51930cc1bc0f06, type: 3}
+  wrongfoodSound: {fileID: 8300000, guid: f63515505ce38e740b7b1dc8fa46e161, type: 3}
+  cashingSound: {fileID: 8300000, guid: 6716345b3b9fc5146bd1512c8d8628d5, type: 3}
+  timeoutSound: {fileID: 8300000, guid: 209b7ff5ec41cf84d8985db9084a5a52, type: 3}
+  correctfoodSound: {fileID: 8300000, guid: 8d24080c0388b0b4b83e3ccf1d7e96d4, type: 3}
+  wrongfoodkeepwaitSound: {fileID: 8300000, guid: 6ed76a378fe55394381a8ae5e190536f,
+    type: 3}

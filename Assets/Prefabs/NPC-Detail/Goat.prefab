@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3850145390901566586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6577599525317628541}
+  - component: {fileID: 7767532728135268499}
+  m_Layer: 0
+  m_Name: Goat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6577599525317628541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3850145390901566586}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7767532728135268499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3850145390901566586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 873952846d1a0054494f6b3e3ac33cd3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NpcPrefab: {fileID: 5809622430474153172, guid: 9bdb2f6b86ba8574da3370c74fc7ae0d,
+    type: 3}
+  ShirtMaterial: {fileID: 2100000, guid: 6de49c9a8f043084184401bacdf74639, type: 2}
+  waitingSound: {fileID: 8300000, guid: 439807ec5bc6b6348879187fc8cc4ece, type: 3}
+  wavingSound: {fileID: 8300000, guid: 54a2792e0263d104f90f54ce7a4aea25, type: 3}
+  hitSound: {fileID: 8300000, guid: 81f6c9896b973de4d9c236ea0752891b, type: 3}
+  wrongfoodSound: {fileID: 8300000, guid: 20fccb1b8e914e641acf0c7107c5dc58, type: 3}
+  cashingSound: {fileID: 8300000, guid: 04c1cae4c84aaec42b0e024f87e82752, type: 3}
+  timeoutSound: {fileID: 8300000, guid: b15b91771881234459df1e79a4794465, type: 3}
+  correctfoodSound: {fileID: 8300000, guid: 29be518b1eb8fa24d9531597ca11ae5a, type: 3}
+  wrongfoodkeepwaitSound: {fileID: 8300000, guid: 96df755f0cac3164f8f8de10b7d93a08,
+    type: 3}

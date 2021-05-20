@@ -1,0 +1,187 @@
+{
+    "version" : "0.3",
+    "passTutorial" : false,
+    "reachedLevel" : 1,
+    "levelInfo": [
+        {
+            "name": 0,
+            "unlock": true,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 1,
+            "unlock": true,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 2,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 3,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 4,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 5,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 6,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 7,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 8,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        },
+        {
+            "name": 9,
+            "unlock": false,
+            "highScore": [
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                },
+                {
+                    "name": "---",
+                    "score": -9999
+                }
+            ]
+        }
+    ]
+}

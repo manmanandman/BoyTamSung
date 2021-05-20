@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1a6eb5dc891c8d6408fae194284d1d7f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RSU
+  fontNames:
+  - RSU
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98486515ad70a2f4eaaa331a696e1162, type: 3}
+  - {fileID: 12800000, guid: 60497479ee9c74245a460d44a9f17425, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703396704151",
+    "firebase_url": "https://boy2-98202-default-rtdb.firebaseio.com",
+    "project_id": "boy2-98202",
+    "storage_bucket": "boy2-98202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703396704151:android:683d32730e90537ee31ed2",
+        "android_client_info": {
+          "package_name": "com.BOI.BOYTAMSUNG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703396704151-ml589korpqh6samuen9sq9uhrhuubu69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOrFXyMEzgBweSKClmp9VTlm6VMEgbj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703396704151-ml589korpqh6samuen9sq9uhrhuubu69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
